@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Giovana+Marsigli;I'm+17+years+old;I'm+from+Brazil;I+Study+Systems+Development;Be+Welcome+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GiovanaMarsigli&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=6a747d&bg_color=ffffff" alt="Giovana github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanaMarsigli&layout=compact&hide_border=true&title_color=ff91a4&text_color=6a747d&bg_color=ffffff" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GiovanaMarsigli&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=6a747d" alt="Giovana github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanaMarsigli&layout=compact&hide_border=true&title_color=ff91a4&text_color=6a747d" />
   
   ### Studying in this moment:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
