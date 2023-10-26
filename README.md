@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Giovana;I'm+17+years+old;I'm+from+Brazil;I+Study+Systems+Development;Be+Welcome+:%29)](https://git.io/typing-svg)
 
-[![](https://github-readme-activity-graph.cyclic.app/graph?username=GiovanaMarsigli&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
