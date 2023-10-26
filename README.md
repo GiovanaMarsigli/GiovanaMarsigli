@@ -4,7 +4,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=GiovanaMarsigli&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GiovanaMarsigli&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=ffffff" alt="Giovana github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GiovanaMarsigli&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=ca747d&bg_color=ffffff" alt="Giovana github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanaMarsigli&layout=compact&hide_border=true&title_color=ff91a4&text_color=f1889b&bg_color=ffffff" />
   
   ### Studying in this moment:
