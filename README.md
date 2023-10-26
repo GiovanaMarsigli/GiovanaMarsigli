@@ -2,7 +2,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GiovanaMarsigli&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=6a747d&bg_color=ffffff" alt="Giovana github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanaMarsigli&layout=compact&hide_border=true&title_color=ff91a4&text_color=f188z9b&bg_color=ffffff" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanaMarsigli&layout=compact&hide_border=true&title_color=ff91a4&text_color=f1889b&bg_color=ffffff" />
   
   ### Studying in this moment:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
