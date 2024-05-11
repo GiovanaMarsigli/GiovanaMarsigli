@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hello, I'm Giovana Marsigli Rodrigues</h1>
+<h1 align="center"> Hello, I'm Giovana Marsigli</h1>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GiovanaMarsigli&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=6a747d" alt="Giovana github stats" /> 
