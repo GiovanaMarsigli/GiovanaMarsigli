@@ -8,7 +8,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GiovanaMarsigli&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=6a747d" alt="Giovana github stats" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanaMarsigli&layout=compact&hide_border=true&title_color=ff91a4&text_color=6a747d" />
 
-  <h3 align="center">🌐P-TECH program student in Etec Zona Leste</h3>
+  <h3 align="center">🌐P-TECH programming student in Etec Zona Leste</h3>
 
    ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
